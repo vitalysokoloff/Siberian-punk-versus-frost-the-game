@@ -1,0 +1,8 @@
+DebugMode off
+FullScreen off
+Width 1280
+Height 720
+Volume 0,5
+//DebugMode on/1/true/off/0/false
+//FullScreen on/1/true/off/0/false
+//Разрешение можно менять, но не нужно, игра расчитана под 1280x720
